@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.exe
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.deps.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\refint\DateTimeVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DateTimeVariables\obj\Debug\net6.0\ref\DateTimeVariables.dll

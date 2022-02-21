@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\bin\Debug\net6.0\Practice.exe
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\bin\Debug\net6.0\Practice.deps.json
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\bin\Debug\net6.0\Practice.dll
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\bin\Debug\net6.0\Practice.pdb
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\Practice.dll
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\refint\Practice.dll
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\Practice.pdb
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\02-Second_Application\Practice\obj\Debug\net6.0\ref\Practice.dll

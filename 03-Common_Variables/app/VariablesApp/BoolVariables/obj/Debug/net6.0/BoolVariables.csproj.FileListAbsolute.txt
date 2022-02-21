@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.exe
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.deps.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\refint\BoolVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\BoolVariables\obj\Debug\net6.0\ref\BoolVariables.dll

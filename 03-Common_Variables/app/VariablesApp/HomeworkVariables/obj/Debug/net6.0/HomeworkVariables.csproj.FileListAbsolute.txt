@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.exe
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.deps.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\refint\HomeworkVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\HomeworkVariables\obj\Debug\net6.0\ref\HomeworkVariables.dll

@@ -1,0 +1,16 @@
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.exe
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.deps.json
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.runtimeconfig.dev.json
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.dll
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.pdb
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.dll
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\refint\HelloWorldInNet5.dll
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.pdb
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\First_Application\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\ref\HelloWorldInNet5.dll

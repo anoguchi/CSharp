@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\bin\Debug\net6.0\StringVariables.exe
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\bin\Debug\net6.0\StringVariables.deps.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\bin\Debug\net6.0\StringVariables.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\bin\Debug\net6.0\StringVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\bin\Debug\net6.0\StringVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\StringVariables.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\StringVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\StringVariables.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\StringVariables.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\StringVariables.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\StringVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\refint\StringVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\StringVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\StringVariables.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\StringVariablesApp\StringVariables\obj\Debug\net6.0\ref\StringVariables.dll

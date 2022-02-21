@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\bin\Debug\net6.0\GreetinhApp.exe
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\bin\Debug\net6.0\GreetinhApp.deps.json
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\bin\Debug\net6.0\GreetinhApp.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\bin\Debug\net6.0\GreetinhApp.dll
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\bin\Debug\net6.0\GreetinhApp.pdb
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\GreetinhApp.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\GreetinhApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\GreetinhApp.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\GreetinhApp.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\GreetinhApp.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\GreetinhApp.dll
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\refint\GreetinhApp.dll
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\GreetinhApp.pdb
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\GreetinhApp.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\First_Application\02-MySecondProject\MySecondProject\GreetinhApp\obj\Debug\net6.0\ref\GreetinhApp.dll

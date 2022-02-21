@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.exe
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.deps.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\refint\DoubleVariables.dll
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.pdb
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\03-Common_Variables\app\VariablesApp\DoubleVariables\obj\Debug\net6.0\ref\DoubleVariables.dll
