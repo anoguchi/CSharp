@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fju26DW5qGNIrHy6kMkRLArmmMZBd6bWaScP8DoKBadwoLl0ojL5OCtEb9ZA560dKTpFkrPzc9TmNpfRMdd5hA==",
+  "dgSpecHash": "no7zW9A/KHeivo2GK4Y7+lFzlWr2wrxnT2pqP5UO0sYUFd4G16Tc8anilaJgmr0e9c0m6xmzAU1Tc9U6y7PwGQ==",
   "success": true,
-  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\DoubleVariables\\DoubleVariables.csproj",
+  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\DoubleVariables\\DoubleVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

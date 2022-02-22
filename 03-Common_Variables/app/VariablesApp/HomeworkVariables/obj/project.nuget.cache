@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KylWwmvKf3V975utiJJwEH3OcJ9r34VmanSUftESKTnzqSH1fkZU6bxdNE7PnP22sw2zGNXU89nBfUBl7ZZYFA==",
+  "dgSpecHash": "JMtH2hiCNpsaX1EEaT7y/0UDAAxmDJs4Uy6fSMpywBi03MlsZ1dQpVvQMLFppe3/7hPA0M1Uql47WP3bEZPDdw==",
   "success": true,
-  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj",
+  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

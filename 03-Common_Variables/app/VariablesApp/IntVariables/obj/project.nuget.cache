@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Td2qPpkVMw/Mp7ulrJNi4JWekL36Rqt6nzq+Xv+QqFjBQJyb1/52kr4drqB0CRBlvyQ6F5WQa0Q6GySfKTqRUA==",
+  "dgSpecHash": "4jwA0Fg7ZRkXLaa8kFO+0leQ/9TkpXxxoARI2pR2dlMjylhqIVIzLE8wAktU9c08bRP1ahNDcfjw5F1ZqOMeUA==",
   "success": true,
-  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\IntVariables\\IntVariables.csproj",
+  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\IntVariables\\IntVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

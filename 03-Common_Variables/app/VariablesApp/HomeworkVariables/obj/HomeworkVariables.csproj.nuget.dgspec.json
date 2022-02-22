@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj": {}
+    "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj": {}
   },
   "projects": {
-    "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj": {
+    "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj",
+        "projectUniqueName": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj",
         "projectName": "HomeworkVariables",
-        "projectPath": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj",
+        "projectPath": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\HomeworkVariables.csproj",
         "packagesPath": "C:\\Users\\Alberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\obj\\",
+        "outputPath": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\HomeworkVariables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZXr1mLwirnaSt4kvGGXTkhrjGPt9Q6d//a2u4HLI1ynLYm7lf484NKxKM6CRD1fVcJuNO0wOupahvpi4b7Cccg==",
+  "dgSpecHash": "HZ9Q9TBwlUl90PTJhGREUhSNDS+r6gd4kTbdig7v/wSFX4b53TLRwXVD7F4b89z9KrO0Fu5XsgjTbSjx+dYFmw==",
   "success": true,
-  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\DateOnlyVariables\\DateOnlyVariables.csproj",
+  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\DateOnlyVariables\\DateOnlyVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

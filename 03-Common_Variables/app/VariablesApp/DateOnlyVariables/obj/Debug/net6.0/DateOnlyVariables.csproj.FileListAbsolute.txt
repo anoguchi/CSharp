@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\bin\Debug\net6.0\DateOnlyVariables.exe
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\bin\Debug\net6.0\DateOnlyVariables.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\bin\Debug\net6.0\DateOnlyVariables.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\bin\Debug\net6.0\DateOnlyVariables.dll
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\bin\Debug\net6.0\DateOnlyVariables.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\DateOnlyVariables.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\DateOnlyVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\DateOnlyVariables.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\DateOnlyVariables.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\DateOnlyVariables.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\DateOnlyVariables.dll
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\refint\DateOnlyVariables.dll
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\DateOnlyVariables.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\DateOnlyVariables.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\03-Common_Variables\app\VariablesApp\DateOnlyVariables\obj\Debug\net6.0\ref\DateOnlyVariables.dll

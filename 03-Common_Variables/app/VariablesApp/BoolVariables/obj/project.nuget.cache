@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HUowTMBFxtTag1XhZRUpxvC3Ce2EmHIYx8S/qKySQLCiibjC674KvuAtmyf+Gosm/meBgwdeEw/KoXY+pCmAUQ==",
+  "dgSpecHash": "Fn9dn2Mjv5yDdaLY0Jp1OpR1eS2H5j8dC9itCvlIcjyxMCDiHxAPf6xYkKjS+72wGiSqdxd7Qqqatdap06ZU6w==",
   "success": true,
-  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\BoolVariables\\BoolVariables.csproj",
+  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\BoolVariables\\BoolVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pRLFMGcOrEMBGVAr/I+C4aP2cuIvvYoPyX5t5SUNrXrsd/sra6eM3jzZ2G62pTfS5S6Ltrz9V0c+kxijUz4OKQ==",
+  "dgSpecHash": "cUEW4kG/Jny8qfazbJHJHrjz67q7sPhG5rB1/B5kpOz8fFebfpF0gYCWYT1cyGgmgXCWquIo3sLadSJ3HKB6dg==",
   "success": true,
-  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\03-Common_Variables\\app\\VariablesApp\\DateTimeVariables\\DateTimeVariables.csproj",
+  "projectFilePath": "C:\\Beto\\Dev\\Tim_Corey\\CSharp\\03-Common_Variables\\app\\VariablesApp\\DateTimeVariables\\DateTimeVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
