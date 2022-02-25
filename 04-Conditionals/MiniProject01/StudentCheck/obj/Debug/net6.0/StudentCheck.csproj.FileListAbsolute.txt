@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.exe
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\bin\Debug\net6.0\StudentCheck.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\refint\StudentCheck.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\StudentCheck.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\MiniProject01\StudentCheck\obj\Debug\net6.0\ref\StudentCheck.dll

@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\bin\Debug\net6.0\BasicIfStatements.exe
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\bin\Debug\net6.0\BasicIfStatements.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\bin\Debug\net6.0\BasicIfStatements.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\bin\Debug\net6.0\BasicIfStatements.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\bin\Debug\net6.0\BasicIfStatements.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\BasicIfStatements.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\BasicIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\BasicIfStatements.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\BasicIfStatements.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\BasicIfStatements.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\BasicIfStatements.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\refint\BasicIfStatements.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\BasicIfStatements.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\BasicIfStatements.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\BasicIfStatements\obj\Debug\net6.0\ref\BasicIfStatements.dll

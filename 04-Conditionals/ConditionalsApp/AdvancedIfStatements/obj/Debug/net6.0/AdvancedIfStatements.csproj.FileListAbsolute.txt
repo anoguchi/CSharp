@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\bin\Debug\net6.0\AdvancedIfStatements.exe
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\bin\Debug\net6.0\AdvancedIfStatements.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\bin\Debug\net6.0\AdvancedIfStatements.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\bin\Debug\net6.0\AdvancedIfStatements.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\bin\Debug\net6.0\AdvancedIfStatements.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\AdvancedIfStatements.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\AdvancedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\AdvancedIfStatements.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\AdvancedIfStatements.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\AdvancedIfStatements.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\AdvancedIfStatements.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\refint\AdvancedIfStatements.dll
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\AdvancedIfStatements.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\AdvancedIfStatements.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\04-Conditionals\ConditionalsApp\AdvancedIfStatements\obj\Debug\net6.0\ref\AdvancedIfStatements.dll
