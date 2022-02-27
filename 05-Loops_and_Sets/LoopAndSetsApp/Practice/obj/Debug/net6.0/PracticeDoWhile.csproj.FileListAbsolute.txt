@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\bin\Debug\net6.0\PracticeDoWhile.exe
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\bin\Debug\net6.0\PracticeDoWhile.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\bin\Debug\net6.0\PracticeDoWhile.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\bin\Debug\net6.0\PracticeDoWhile.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\bin\Debug\net6.0\PracticeDoWhile.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\PracticeDoWhile.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\PracticeDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\PracticeDoWhile.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\PracticeDoWhile.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\PracticeDoWhile.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\PracticeDoWhile.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\refint\PracticeDoWhile.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\PracticeDoWhile.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\PracticeDoWhile.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Practice\obj\Debug\net6.0\ref\PracticeDoWhile.dll

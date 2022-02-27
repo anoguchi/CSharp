@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.exe
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\refint\DoWhileLoops.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\DoWhileLoops\obj\Debug\net6.0\ref\DoWhileLoops.dll

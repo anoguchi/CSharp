@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Arrays\obj\Debug\net6.0\ref\Arrays.dll
