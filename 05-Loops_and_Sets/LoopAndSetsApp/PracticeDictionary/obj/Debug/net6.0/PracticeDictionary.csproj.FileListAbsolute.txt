@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\bin\Debug\net6.0\PracticeDictionary.exe
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\bin\Debug\net6.0\PracticeDictionary.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\bin\Debug\net6.0\PracticeDictionary.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\bin\Debug\net6.0\PracticeDictionary.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\bin\Debug\net6.0\PracticeDictionary.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\PracticeDictionary.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\PracticeDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\PracticeDictionary.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\PracticeDictionary.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\PracticeDictionary.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\PracticeDictionary.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\refint\PracticeDictionary.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\PracticeDictionary.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\PracticeDictionary.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeDictionary\obj\Debug\net6.0\ref\PracticeDictionary.dll

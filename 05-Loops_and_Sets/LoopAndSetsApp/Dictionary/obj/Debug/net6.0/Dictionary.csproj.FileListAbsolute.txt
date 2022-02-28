@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\bin\Debug\net6.0\Dictionary.exe
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\bin\Debug\net6.0\Dictionary.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\Dictionary.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
