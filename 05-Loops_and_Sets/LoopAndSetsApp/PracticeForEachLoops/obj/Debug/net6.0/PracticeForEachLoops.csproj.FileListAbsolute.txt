@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\PracticeForEachLoops.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\PracticeForEachLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\PracticeForEachLoops.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\PracticeForEachLoops.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\PracticeForEachLoops.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\bin\Debug\net6.0\PracticeForEachLoops.exe
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\bin\Debug\net6.0\PracticeForEachLoops.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\bin\Debug\net6.0\PracticeForEachLoops.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\bin\Debug\net6.0\PracticeForEachLoops.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\bin\Debug\net6.0\PracticeForEachLoops.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\PracticeForEachLoops.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\refint\PracticeForEachLoops.dll
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\PracticeForEachLoops.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\PracticeForEachLoops.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\05-Loops_and_Sets\LoopAndSetsApp\PracticeForEachLoops\obj\Debug\net6.0\ref\PracticeForEachLoops.dll
