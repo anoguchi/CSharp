@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\bin\Debug\net6.0\Tuples.exe
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\bin\Debug\net6.0\Tuples.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\bin\Debug\net6.0\Tuples.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\bin\Debug\net6.0\Tuples.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\bin\Debug\net6.0\Tuples.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\Tuples.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\Tuples.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\Tuples.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\Tuples.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\Tuples.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\refint\Tuples.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\Tuples.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\Tuples.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\Tuples\obj\Debug\net6.0\ref\Tuples.dll

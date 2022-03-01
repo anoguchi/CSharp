@@ -1,0 +1,3 @@
+﻿using CreatingAMethod;
+
+SampleMethods.SayHi();

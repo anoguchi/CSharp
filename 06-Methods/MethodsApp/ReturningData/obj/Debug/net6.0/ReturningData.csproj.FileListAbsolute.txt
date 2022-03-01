@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\bin\Debug\net6.0\ReturningData.exe
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\bin\Debug\net6.0\ReturningData.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\bin\Debug\net6.0\ReturningData.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\bin\Debug\net6.0\ReturningData.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\bin\Debug\net6.0\ReturningData.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ReturningData.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ReturningData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ReturningData.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ReturningData.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ReturningData.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ReturningData.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\refint\ReturningData.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ReturningData.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ReturningData.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\ReturningData\obj\Debug\net6.0\ref\ReturningData.dll

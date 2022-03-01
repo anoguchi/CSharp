@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\bin\Debug\net6.0\CallingAMethod.exe
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\bin\Debug\net6.0\CallingAMethod.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\bin\Debug\net6.0\CallingAMethod.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\bin\Debug\net6.0\CallingAMethod.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\bin\Debug\net6.0\CallingAMethod.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\CallingAMethod.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\CallingAMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\CallingAMethod.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\CallingAMethod.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\CallingAMethod.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\CallingAMethod.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\refint\CallingAMethod.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\CallingAMethod.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\CallingAMethod.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\CallingAMethod\obj\Debug\net6.0\ref\CallingAMethod.dll

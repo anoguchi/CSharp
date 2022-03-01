@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingAMethod", "CreatingAMethod\CreatingAMethod.csproj", "{AF97BD76-1E06-4E6B-81F5-D240257717F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallingAMethod", "CallingAMethod\CallingAMethod.csproj", "{4E07ED5B-0FD5-4A5D-9D4A-63E5DA9E6B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPrinciplesDRY", "DesignPrinciplesDRY\DesignPrinciplesDRY.csproj", "{680E8DC0-2753-4564-BE4B-AE976B41F2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsParameters", "MethodsParameters\MethodsParameters.csproj", "{B83B073A-3496-4B8F-B4FA-7EF8E297A3AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturningData", "ReturningData\ReturningData.csproj", "{C2E96D31-ED40-4419-8909-B99E126E8675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples", "Tuples\Tuples.csproj", "{621B38B2-18BD-458F-B27B-09CD578C403C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeMethods", "PracticeMethods\PracticeMethods.csproj", "{4D49470B-F6C9-4743-9AC3-1442F5A9D0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF97BD76-1E06-4E6B-81F5-D240257717F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF97BD76-1E06-4E6B-81F5-D240257717F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF97BD76-1E06-4E6B-81F5-D240257717F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF97BD76-1E06-4E6B-81F5-D240257717F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E07ED5B-0FD5-4A5D-9D4A-63E5DA9E6B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E07ED5B-0FD5-4A5D-9D4A-63E5DA9E6B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E07ED5B-0FD5-4A5D-9D4A-63E5DA9E6B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E07ED5B-0FD5-4A5D-9D4A-63E5DA9E6B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680E8DC0-2753-4564-BE4B-AE976B41F2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680E8DC0-2753-4564-BE4B-AE976B41F2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680E8DC0-2753-4564-BE4B-AE976B41F2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680E8DC0-2753-4564-BE4B-AE976B41F2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83B073A-3496-4B8F-B4FA-7EF8E297A3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83B073A-3496-4B8F-B4FA-7EF8E297A3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83B073A-3496-4B8F-B4FA-7EF8E297A3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83B073A-3496-4B8F-B4FA-7EF8E297A3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E96D31-ED40-4419-8909-B99E126E8675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E96D31-ED40-4419-8909-B99E126E8675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E96D31-ED40-4419-8909-B99E126E8675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E96D31-ED40-4419-8909-B99E126E8675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621B38B2-18BD-458F-B27B-09CD578C403C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621B38B2-18BD-458F-B27B-09CD578C403C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621B38B2-18BD-458F-B27B-09CD578C403C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621B38B2-18BD-458F-B27B-09CD578C403C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D49470B-F6C9-4743-9AC3-1442F5A9D0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D49470B-F6C9-4743-9AC3-1442F5A9D0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D49470B-F6C9-4743-9AC3-1442F5A9D0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D49470B-F6C9-4743-9AC3-1442F5A9D0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4884573-B052-4742-B25A-ECB302A692C2}
+	EndGlobalSection
+EndGlobal

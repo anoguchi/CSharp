@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\bin\Debug\net6.0\DesignPrinciplesDRY.exe
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\bin\Debug\net6.0\DesignPrinciplesDRY.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\bin\Debug\net6.0\DesignPrinciplesDRY.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\bin\Debug\net6.0\DesignPrinciplesDRY.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\bin\Debug\net6.0\DesignPrinciplesDRY.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\DesignPrinciplesDRY.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\DesignPrinciplesDRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\DesignPrinciplesDRY.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\DesignPrinciplesDRY.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\DesignPrinciplesDRY.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\DesignPrinciplesDRY.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\refint\DesignPrinciplesDRY.dll
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\DesignPrinciplesDRY.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\DesignPrinciplesDRY.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\06-Methods\MethodsApp\DesignPrinciplesDRY\obj\Debug\net6.0\ref\DesignPrinciplesDRY.dll
