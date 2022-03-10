@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\bin\Debug\net6.0\UsingBreakpointrs.exe
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\bin\Debug\net6.0\UsingBreakpointrs.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\bin\Debug\net6.0\UsingBreakpointrs.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\bin\Debug\net6.0\UsingBreakpointrs.dll
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\bin\Debug\net6.0\UsingBreakpointrs.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\UsingBreakpointrs.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\UsingBreakpointrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\UsingBreakpointrs.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\UsingBreakpointrs.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\UsingBreakpointrs.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\UsingBreakpointrs.dll
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\refint\UsingBreakpointrs.dll
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\UsingBreakpointrs.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\UsingBreakpointrs.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\UsingBreakpointrs\obj\Debug\net6.0\ref\UsingBreakpointrs.dll

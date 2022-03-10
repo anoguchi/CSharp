@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.exe
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.dll
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.dll
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\refint\HandlingExceptions.dll
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\07-Debugging_Basics\DebuggingBasics\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll

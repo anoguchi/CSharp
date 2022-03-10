@@ -1,0 +1,15 @@
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\bin\Debug\net6.0\GuestBook.exe
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\bin\Debug\net6.0\GuestBook.deps.json
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\bin\Debug\net6.0\GuestBook.runtimeconfig.json
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\bin\Debug\net6.0\GuestBook.dll
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\bin\Debug\net6.0\GuestBook.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\GuestBook.csproj.AssemblyReference.cache
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\GuestBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\GuestBook.AssemblyInfoInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\GuestBook.AssemblyInfo.cs
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\GuestBook.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\GuestBook.dll
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\refint\GuestBook.dll
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\GuestBook.pdb
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\GuestBook.genruntimeconfig.cache
+C:\Beto\Dev\Tim_Corey\CSharp\MiniProject02\MiniProject02\GuestBook\obj\Debug\net6.0\ref\GuestBook.dll
